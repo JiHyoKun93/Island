@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d15f6855d02e92445988b0ae398f12e2, type: 3}
+  m_Name: CraftingOre
+  m_EditorClassIdentifier: 
+  itemName: 
+  maxHp: 3
+  spriteImage:
+  - {fileID: 776849415, guid: 8a85074e8ccae2b4f95dbdfc0fdb50b0, type: 3}
+  - {fileID: 679604294, guid: 8a85074e8ccae2b4f95dbdfc0fdb50b0, type: 3}
+  - {fileID: -1317973321, guid: 8a85074e8ccae2b4f95dbdfc0fdb50b0, type: 3}
